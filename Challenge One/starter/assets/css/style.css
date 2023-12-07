@@ -3,10 +3,12 @@
     padding: 0;
     margin: 0;
 }
-
+/* < --- body begins here -- > */
 body {
     background-color: #d9dcd6;
 }
+
+/* < --- CSS Header and Nav --- > */
 
 .header {
     padding: 20px;
@@ -16,15 +18,11 @@ body {
 }
 
 .header h1 {
-    display: inline-block;
+    display: inline;
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
-
-.header div {
+#nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,12 +30,12 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+#nav ul {
     list-style-type: none;
 }
 
-.header div ul li {
-    display: inline-block;
+#nav ul li {
+    display: inline;
     margin-left: 25px;
 }
 
@@ -50,7 +48,9 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/* < --- CSS main --- > */
+
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
