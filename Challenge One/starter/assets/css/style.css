@@ -42,14 +42,9 @@ body {
     margin-left: 25px;
 }
 
-a {
+#nav ul li a {
     color: #ffffff;
     text-decoration: none;
-}
-
-p {
-    height: 300px;
-    font-size: 16px;
 }
 
 
@@ -68,7 +63,6 @@ p {
 
 /* < --- CSS main --- > */
 
-
 .float-left {
     float: left;
     margin-right: 25px;
@@ -80,7 +74,7 @@ p {
 }
 
 .content {
-    width: 78%;
+    width: 72%;
     display: inline-block;
     margin-left: 20px;
 }
@@ -139,7 +133,11 @@ p {
     font-size: 36px;
 }
 
-
+p {
+    display:flex
+    float:right;
+    font-size: 20px;
+}
 
 /* < --- CSS sidebar --- > */
 
@@ -149,7 +147,7 @@ p {
     padding: 30px;
     clear: both;
     float: right;
-    width: 18%;
+    width: 24%;
     height: 200%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
@@ -171,16 +169,19 @@ p {
 }
 
 .benefit-lead h3 {
+    font-size: 20px;
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-brand h3 {
+    font-size: 20px;
     margin-bottom: 10px;
     text-align: center;
 }
 
 .benefit-cost h3 {
+    font-size: 20px;
     margin-bottom: 10px;
     text-align: center;
 }
