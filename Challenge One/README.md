@@ -23,13 +23,18 @@ To view the code of the webpage to make any changes or to review the code:
 
 - From a computer using mac OS:  right-click anywhere on the page and choose “Inspect” from the options or on your keyboard press: Option+Command+I as a shortcut.
 
+The following images provide an example of what the webpage should look like when opened in a browser:
+
+(![Alt text](<Assets/Screenshot 2023-12-07 at 17.26.38.png>))
+
+(! [Alt text](<Assets/Screenshot 2023-12-07 at 17.26.47.png>))
+
+(! [Alt text](<Assets/Screenshot 2023-12-07 at 17.26.52.png>))
 
 ## License
 
 This project has an MIT License.
 
-
----
 
 ---
 
