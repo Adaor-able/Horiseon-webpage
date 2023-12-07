@@ -25,11 +25,11 @@ To view the code of the webpage to make any changes or to review the code:
 
 The following images provide an example of what the webpage should look like when opened in a browser:
 
-(![Alt text](<Assets/Screenshot 2023-12-07 at 17.26.38.png>))
+(![Alt text](<Challenge One/Assets/Screenshot 2023-12-07 at 17.26.38.png>))
 
-(! [Alt text](<Assets/Screenshot 2023-12-07 at 17.26.47.png>))
+(! [Alt text](<Challenge One/Assets/Screenshot 2023-12-07 at 17.26.47.png>))
 
-(! [Alt text](<Assets/Screenshot 2023-12-07 at 17.26.52.png>))
+(! [Alt text](<Challenge One/Assets/Screenshot 2023-12-07 at 17.26.52.png>))
 
 ## License
 
