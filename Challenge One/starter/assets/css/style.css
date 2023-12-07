@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-/* < --- body begins here -- > */
+/* < --- CSS body -- > */
 body {
     background-color: #d9dcd6;
 }
@@ -70,18 +70,21 @@ p {
 }
 
 .content {
-    width: 75%;
+    width: 78%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+/* < --- CSS sidebar --- > */
+
+.sidebar {
+    display:block;
     margin-right: 20px;
-    padding: 20px;
+    padding: 30px;
     clear: both;
     float: right;
-    width: 20%;
-    height: 100%;
+    width: 18%;
+    height: 200%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
@@ -188,7 +191,10 @@ p {
     font-size: 36px;
 }
 
+/* < --- CSS footer --- > */
+
 .footer {
+    display:none;
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -196,5 +202,6 @@ p {
 }
 
 .footer h2 {
+    display:none;
     font-size: 20px;
 }
